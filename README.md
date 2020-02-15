@@ -11,7 +11,8 @@ public function onBreak(BlockBreakEvent $event) {
 
 ## Credits
 
-- EventListener from PMMP Forums (i forget the name :( )
+- EventListener from PMMP Forums
+  - thanks for wolfdale
 
 ### Need Help
 
