@@ -7,6 +7,7 @@ public function onBreak(BlockBreakEvent $event) {
         $chestTile = $event->getBlock()->getLevel()->getTile($event->getBlock());
         if($chestTile instanceof \pocketmine\tile\Chest && count($chestTile->getInventory()->getContents()) > 0)
         $event->setCancelled();
+```php
 
 ## Credits
 
