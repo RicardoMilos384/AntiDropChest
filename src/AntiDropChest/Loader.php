@@ -13,6 +13,6 @@ class Loader extends PluginBase {
     public function onEnable() {
         $this->getLogger()->info("[AntiDropChest] §aEnable");
         $listener = new EventListener($this);
-		$this->getServer()->getPluginManager()->registerEvents($listener, $this);
+        $this->getServer()->getPluginManager()->registerEvents($listener, $this);
     }
 }
