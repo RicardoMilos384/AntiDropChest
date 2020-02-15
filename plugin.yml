@@ -1,5 +1,6 @@
 name: AntiDropChest
 main: AntiDropChest\Loader
 api: 3.11.5
+version: 1.0.0-beta
 author: DontTouchMeXD
 description: just Plugin
