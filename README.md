@@ -1,6 +1,9 @@
 # AntiDropChest
 Plugin For Cancel Break Chest Of chest have item
 
+[![Poggit-CI](https://poggit.pmmp.io/ci.badge/RicardoMilos384/AntiDropChest/AntiDropChest/master)]
+
+
 - **EventListener**
 ```php
 public function onBreak(BlockBreakEvent $event) {
